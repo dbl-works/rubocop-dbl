@@ -22,10 +22,10 @@ RSpec/ContextWording:
 
 
 # @NOTE: by default, no methods are enabled
-RSpec/Capybara/FeatureMethods:
-  EnabledMethods:
-    - feature
-    - scenario
+# RSpec/Capybara/FeatureMethods:
+#   EnabledMethods:
+#     - feature
+#     - scenario
 
 # @NOTE: increased from 3 to 5
 RSpec/NestedGroups:

@@ -1,9 +1,8 @@
-require:
+plugins:
   - rubocop-packaging
   - rubocop-performance
   - rubocop-rspec
   - rubocop-sorbet
-
 
 inherit_from:
   - cops/layout.yml
