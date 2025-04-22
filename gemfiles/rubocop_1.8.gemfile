@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 
 gem 'appraisal'
 gem 'bundler'
+gem 'logger'
 gem 'minitest'
 gem 'rails', '~> 6.0'
 gem 'rake'
