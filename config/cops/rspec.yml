@@ -12,19 +12,10 @@
 
 
 # @NOTE: added: "if", "and"
-RSpec/ContextWording:
+Style/ContextWording:
   Prefixes:
     - when
     - with
     - without
     - if
     - and
-
-# @NOTE: increased from 3 to 5
-RSpec/NestedGroups:
-  Max: 5
-
-
-# @NOTE: increased from 5 to 6
-RSpec/MultipleMemoizedHelpers:
-  Max: 6
