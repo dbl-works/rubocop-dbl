@@ -12,7 +12,7 @@
 
 
 # @NOTE: added: "if", "and"
-Style/ContextWording:
+RSpec/ContextWording:
   Prefixes:
     - when
     - with
