@@ -1,7 +1,10 @@
 plugins:
+  - rubocop-factory_bot
   - rubocop-packaging
   - rubocop-performance
+  - rubocop-rails
   - rubocop-rspec
+  - rubocop-rspec_rails
   - rubocop-sorbet
 
 inherit_from:
